@@ -1,0 +1,16 @@
+{
+    "sound_speed": 340.29,
+    "num_microphones": 5,
+    "mic_coordinates": [
+        [0.0, 0.0, 0.0],
+        [0.08, 0.0, 0.0],
+        [0.0, 0.08, 0.0],
+        [0.0, 0.0, 0.08],
+        [0.0, 0.0, -0.08]
+    ],
+    "farest_distance": 10,
+    "closest_distance": 0.05,
+    "num_samples": 1000,
+    "data_save_path": "data/tdoa/synthetic/",
+    "synthetic_data_filename": "synthetic_data"
+}
